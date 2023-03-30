@@ -286,7 +286,7 @@ hex
 ---
 ``hex`` for Hex packages:
 
-- The default repository is ``https://repo.hex.pm``.
+- The default repository is ``https://hex.pm``.
 - The ``namespace`` is optional; it may be used to specify the organization for
   private packages on hex.pm. It is not case sensitive and must be lowercased.
 - The ``name`` is not case sensitive and must be lowercased.
@@ -431,7 +431,7 @@ pub
 ----
 ``pub`` for Dart and Flutter packages:
 
-- The default repository is ``https://pub.dartlang.org``.
+- The default repository is ``https://pub.dev/``.
 - Pub normalizes all package names to be lowercase and using underscores. The only allowed characters are `[a-z0-9_]`.
 - More information on pub naming and versioning is available in the [pubspec documentation](https://dart.dev/tools/pub/pubspec)
 - Examples::
